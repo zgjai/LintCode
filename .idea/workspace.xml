@@ -1743,11 +1743,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MinimumSpanningTree.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/amazon/High9/MinimumSpanningTree.java">
+      <file leaf-file-name="IntervalMinimumNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/SegmentTree/IntervalMinimumNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+            <state relative-caret-position="195">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -1798,6 +1798,21 @@
         <option value="$PROJECT_DIR$/src/main/java/io/github/zgjai/amazon/High9/KClosestPoints.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/github/zgjai/amazon/High9/CopyListwithRandomPointer.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/github/zgjai/amazon/High9/MinimumSpanningTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/github/zgjai/BinaryIndexedTree/RangeSumQuery.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/github/zgjai/BinaryIndexedTree/RangeSumQuery2D.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/github/zgjai/BinaryIndexedTree/RangeSumQuery2DImmutable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/github/zgjai/BinaryIndexedTree/IntervalSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/github/zgjai/BinaryIndexedTree/IntervalSumII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/github/zgjai/BinaryIndexedTree/ReversePairs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/github/zgjai/BinaryIndexedTree/CountofSmallerNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/github/zgjai/BinaryIndexedTree/CountofSmallerNumbersAfterSelf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/github/zgjai/BinaryIndexedTree/CountofSmallerNumberbeforeitself.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/github/zgjai/SegmentTree/SegmentTreeBuild.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/github/zgjai/SegmentTree/SegmentTreeBuildII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/github/zgjai/SegmentTree/SegmentTreeModify.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/github/zgjai/SegmentTree/SegmentTreeQueryII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/github/zgjai/SegmentTree/SegmentTreeQuery.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/github/zgjai/SegmentTree/IntervalMinimumNumber.java" />
       </list>
     </option>
   </component>
@@ -1822,6 +1837,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1855,30 +1871,10 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="zgjai" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LintCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LintCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zgjai" type="462c0819:PsiDirectoryNode" />
-              <item name="amazon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LintCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LintCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zgjai" type="462c0819:PsiDirectoryNode" />
-              <item name="amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="High9" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -2018,16 +2014,16 @@
       <workItem from="1535710846099" duration="4526000" />
       <workItem from="1536675639806" duration="1593000" />
       <workItem from="1537168799005" duration="4449000" />
-      <workItem from="1537192134173" duration="8784000" />
+      <workItem from="1537192134173" duration="9051000" />
+      <workItem from="1537326440586" duration="6244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24400000" />
+    <option name="totallyTimeSpent" value="30911000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -2042,7 +2038,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.328877" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.27068216" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27503628" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -2304,10 +2300,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/amazon/High9/MinimumSpanningTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/amazon/High9/CopyListwithRandomPointer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="7" selection-end-column="2" />
+        <state relative-caret-position="494">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding>
             <element signature="e#671#672#0" expanded="true" />
             <element signature="e#709#710#0" expanded="true" />
@@ -2315,10 +2318,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/amazon/High9/MinimumSpanningTree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/BinaryIndexedTree/RangeSumQuery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        <state relative-caret-position="264">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/BinaryIndexedTree/RangeSumQuery2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/BinaryIndexedTree/RangeSumQuery2DImmutable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/BinaryIndexedTree/IntervalSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/BinaryIndexedTree/IntervalSumII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/BinaryIndexedTree/ReversePairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/BinaryIndexedTree/CountofSmallerNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/BinaryIndexedTree/CountofSmallerNumbersAfterSelf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/BinaryIndexedTree/CountofSmallerNumberbeforeitself.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/SegmentTree/SegmentTreeBuild.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2112">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/SegmentTree/SegmentTreeBuildII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/SegmentTree/SegmentTreeModify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/SegmentTree/SegmentTreeQueryII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/SegmentTree/SegmentTreeQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zgjai/SegmentTree/IntervalMinimumNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
